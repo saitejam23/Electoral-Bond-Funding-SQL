@@ -7,7 +7,7 @@
 
 We are creating a database from raw data and exploring how to write sql queries. 
 
-# Electoral Bond Data :
+# Electoral Bond Funding :
 
 **Description:**  
 

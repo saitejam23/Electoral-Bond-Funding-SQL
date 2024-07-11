@@ -1,11 +1,11 @@
 
 # Project Description: 
 
-> In this repository we are trying to create a database on electoral bond data and trying to write some queries to answer some question (EDA using SQL) 
+> In this repository I have try to create a database on electoral bond Funding and trying to write some queries to answer some question (EDA using SQL) 
 
-#### What are we accomplishing : 
+#### What are I have accomplishing : 
 
-We are creating a database from raw data and exploring how to write sql queries. 
+Iam creating a database from raw data and exploring how to write sql queries. 
 
 # Electoral Bond Funding :
 
@@ -107,7 +107,7 @@ Only few SBI branches are authorized to issue and enchase  Electoral bond  and 
 
 ###   Domain Knowledge 
 
-Before we start Analyzing the data we need to have an understanding of our problem statement which is referred as domain knowledge and below section is a little effort to impart that knowledge. 
+Before I start Analyzing the data I need to have an understanding of our problem statement which is referred as domain knowledge and below section is a little effort to impart that knowledge. 
 
 Each bond is characterized by a prefix and a bond number. While these components individually lack uniqueness, together they form a distinct identification ID. By comparing and matching these unique codes across tables, we can discern the relationship between donors and receivers, thereby identifying the source of monetary donations to specific political parties. 
 
@@ -124,7 +124,7 @@ Certain companies have acquired bonds under slightly varied names, prompting us 
 File Structure 
 
 ```bash
-EDA SQL electoral bonddata
+EDA SQL electoral bond funding
 │
 ├───Data Cleaning
 │       Data Cleaning.xlsx
@@ -147,8 +147,8 @@ EDA SQL electoral bonddata
         Final Schema.svg
         README.md
         Schema.xlsx
-electoralbonddata_database.sql 
-Final_database_data.ipynb
+electoralbondfunding.sql 
+Final_database.ipynb
 Queries.pdf
 queries.sql
 README.md
@@ -158,10 +158,10 @@ The above shows the folder structure of the project
 
 - Data Cleaning Folder has the files related to data cleaning. 
 - RawData Folder has the data files
-- Final data Folder has the final files which we are using to create the database which is the output files we got from Final_database_data.ipynb
+- Final data Folder has the final files which we are using to create the database which is the output files we got from Final_database.ipynb
 - Schema folder has the files trying to explain the schema we designed. 
 - queries.sql is the sql file where some queries are written on the database. 
 - Queries.pdf is the same queries.sql file but in pdf format for easy reference. 
-- electoralbonddata_database.sql is the self contained database file.  
+- electoralbondfunding.sql is the self contained database file.  
 
 ---

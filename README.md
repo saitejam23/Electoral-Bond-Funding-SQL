@@ -19,7 +19,7 @@ The Election Commission published two separate lists of donors and recipients on
 
 On March 21, the Election Commission made public a new dataset of electoral bonds, including their alphanumeric numbers that can facilitate matching purchasers with the political parties that received the funds.
 
----
+--
 
 ## Data Sources
 
